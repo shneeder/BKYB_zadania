@@ -317,5 +317,7 @@ codegen/
 # Octave session info
 octave-workspace
 
-# vlastne
+# 
+vlastne
 **/data/
+*.mat
