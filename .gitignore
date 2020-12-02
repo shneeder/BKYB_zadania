@@ -321,3 +321,4 @@ octave-workspace
 vlastne
 **/data/
 *.mat
+*.fig
